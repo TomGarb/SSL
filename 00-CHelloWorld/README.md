@@ -1,3 +1,3 @@
 ## C Hello World
 
-- Compilador Seleccionado: C11
+- Compilador Seleccionado: Mingw64 C11
